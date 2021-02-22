@@ -1,0 +1,9 @@
+{
+    "userName": "chrismaran",
+    "password": "Wiki1234",
+    "loginURL": "https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Main+Page",
+    "watchList_Mars":"Mars_2020",
+    "watchList_Covid": "COVID-19_pandemic",
+    "watchLists": "Mars 2020 {shift}{enter} COVID-19_pandemic",
+    "cmdExecution": "node_modules\\.bin\\cypress run --record --key ba3bdeec-319f-4ebd-9bb4-db13c2d99237"
+  }
